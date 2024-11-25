@@ -1,0 +1,11 @@
+Model Information:
+* title:	hans Mazda rx7
+* source:	https://sketchfab.com/3d-models/hans-mazda-rx7-a8ff7482a421428b8a017f577264406a
+* author:	uzb_rx7 (https://sketchfab.com/uzbek_supra)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hans Mazda rx7" (https://sketchfab.com/3d-models/hans-mazda-rx7-a8ff7482a421428b8a017f577264406a) by uzb_rx7 (https://sketchfab.com/uzbek_supra) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
